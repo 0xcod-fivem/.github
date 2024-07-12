@@ -20,4 +20,4 @@
 
 -->
 
-<h1><a href="https://discord.com/users/1177452314672513044">💬 DEVELOPER DISCORD PROFILE: 0xcoding</a></h1>
+<h1><a href="https://discord.com/users/1177452314672513044">💬 DEVELOPER DISCORD PROFILE</a></h1>
